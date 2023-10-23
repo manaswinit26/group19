@@ -1,0 +1,6 @@
+Each line is a paragraph.
+
+Summary (Max Baskin):
+	One of the oldest political questions is whether to ban books, and if so, which books to ban. Even in the 21st century, different forces in American politics have supported banning certain books for a variety of reasons. Therefore, in this project, we have decided to investigate how opinions on book banning are impacted by political party affiliation. 
+We used data from three specific questions on the General Social Survey (GSS): whether a book suggesting Black people are inferior should be removed, whether a book written by an Islamic religious leader “preaching hatred of the United States” should be removed, and whether a book an anti-religious person wrote “against all churches and religions” should be removed. We also observed how these variables changed for people depending on their party affiliation (Republican, Democrat, or Independent) and the year of the survey (originally 1972 to 2022, but because the question about the Islamic religious leader only appeared on the survey beginning in 2008, we had to create two separate tables). 
+After we had collected all the data, we used various visualization methods to help elucidate how different variables were affected by party affiliation and year. 	

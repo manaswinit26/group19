@@ -1,1 +1,2 @@
-
+- One-hot encode dummy variables
+- Normalize the data 

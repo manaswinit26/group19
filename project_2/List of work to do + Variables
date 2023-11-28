@@ -1,3 +1,9 @@
+CATEGORICALS
+- Gender, Marriage, Work
+
+NUMERICALS
+- BMI, Avg gluctose, Age
+
 - One-hot encode dummy variables
 Visualize the data
 - Transformation if needed, remove outliers if needed 

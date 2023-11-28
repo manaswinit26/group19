@@ -1,8 +1,11 @@
 CATEGORICALS
-- Gender, Marriage, Work
+- gender, ever_married, work_type, hypertension, residence_type, smoking_status
 
 NUMERICALS
-- BMI, Avg gluctose, Age
+- bmi, avg_glucose_level, age
+
+RESPONSE
+- stroke
 
 - One-hot encode dummy variables
 Visualize the data

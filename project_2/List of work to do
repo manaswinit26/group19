@@ -1,2 +1,4 @@
 - One-hot encode dummy variables
-- Normalize the data 
+Visualize the data
+- Transformation if needed, remove outliers if needed 
+- Normalize the data if necessary

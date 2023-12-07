@@ -1,0 +1,30 @@
+CATEGORICALS
+- gender, ever_married, work_type, hypertension, residence_type, smoking_status
+
+NUMERICALS
+- bmi, avg_glucose_level, age
+
+RESPONSE
+- stroke
+
+- One-hot encode dummy variables
+Visualize the data
+- Transformation if needed, remove outliers if needed 
+- Normalize the data if necessary
+
+kNN
+kMC
+linear regression
+- Max 
+Decision Trees
+
+AFTER INITIAL STUFF
+Summary
+
+Data
+
+Results
+
+Conclusion
+
+Appendix
